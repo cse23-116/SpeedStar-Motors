@@ -1,5 +1,4 @@
-body { 
-  background-color:black;
+body {
   background-image:url("Wallpaper.jpg")
 }
 p {
@@ -11,6 +10,7 @@ h1 {
  font-family: "Monaco", monospace;
  font-size: 10vw;
  text-align:center;
+ text-shadow: 2px 2px red;
 }
 h6 {
  color:red;
@@ -20,8 +20,8 @@ h6 {
 .logo {
   display: block;
   margin-left: auto;
-  width:250px;
-  height:250px;
+  width:150px;
+  height:150px;
 }
 img {
   display:block;
@@ -55,7 +55,7 @@ a:hover {
 .container {
   position: relative;
   text-align: center;
-  color: white;
+  color: black;
 }
 .bottom-right {
   position: absolute;
