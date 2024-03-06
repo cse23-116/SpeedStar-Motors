@@ -20,14 +20,13 @@ h6 {
 .logo {
   display: block;
   margin-left: auto;
-  margin-right: auto;
-  width:500px;
-  height:500px;
+  width:250px;
+  height:250px;
 }
 img {
-  display:block
+  display:block;
   margin-left:auto;
-  margin-right:auto
+  margin-right:auto;
 }
 nav ul {
   float:right;
@@ -63,28 +62,8 @@ a:hover {
   bottom: 8px;
   right: 16px;
 }
-.sidenav {
-  height: 100%;
-  width: 200px;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
-  background-color: #111;
-  overflow-x: hidden;
-  padding-top: 20px;
+div.polaroid {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
-.sidenav a, .dropdown-btn {
-  padding: 6px 8px 6px 16px;
-  text-decoration: none;
-  font-size: 20px;
-  color: #818181;
-  display: block;
-  border: none;
-  background: none;
-  width:100%;
-  text-align: left;
-  cursor: pointer;
-  outline: none;
-}
-
