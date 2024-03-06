@@ -20,6 +20,8 @@ h6 {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width:100px;
+  height:180px;
 }
 nav ul {
   float:right;
