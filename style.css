@@ -3,13 +3,14 @@ body {
 }
 p {
  color:white;
+ font-family: "Monaco", monospace;
 }
 h1 {
  font-family: "Monaco", monospace;
  font-size: 10vw;
  text-align:center;
 }
-h5 {
+h6 {
  font-family: "Monaco", monospace;
  text-align:center;
 }
