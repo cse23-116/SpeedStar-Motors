@@ -5,10 +5,12 @@ p {
  color:white;
 }
 h1 {
- font-family:Comic Sans;
+ font-family: "Monaco", monospace;
+ text-align:center;
 }
 h5 {
- font-family:Comic Sans;
+ font-family: "Monaco", monospace;
+ text-align:center
 }
 nav ul {
   float:right;
