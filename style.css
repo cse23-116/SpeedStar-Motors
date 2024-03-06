@@ -23,6 +23,9 @@ h6 {
   width:100px;
   height:180px;
 }
+img {
+  margin-left:auto;
+}
 nav ul {
   float:right;
   margin:0;
