@@ -54,11 +54,10 @@ a:hover {
   text-decoration:underline;
 }
 div.polaroid {
-  background-color:grey;
-  align-items:center;
-  width: 200px;
-  background-color: white;
+  width: 80%;
+  background-color: grey;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
 }
 div.container {
   text-align: center;
